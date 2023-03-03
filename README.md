@@ -9,5 +9,5 @@
 # 📦 Latest
 |||||
 |:-------------------|:------------------------|:------------------------|:------------------------|
-|Kotlin KTX|MVNM| Adapter Binding | LiveData | 
-|Retrofit2|Gson|ViewBinding| DataBinding| dagger2 | Hilt 
+|Kotlin KTX|MVVM| Adapter Binding | LiveData | 
+|Retrofit2|Gson|ViewBinding| DataBinding| dagger2 | Hilt
