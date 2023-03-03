@@ -10,4 +10,4 @@
 |||||
 |:-------------------|:------------------------|:------------------------|:------------------------|
 |Kotlin KTX|MVVM| Adapter Binding | LiveData | 
-|Retrofit2|Gson|ViewBinding| DataBinding| dagger2 | Hilt
+|Retrofit2|Gson|ViewBinding| DataBinding| dagger2 | Hilt |
